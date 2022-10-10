@@ -10,3 +10,10 @@
     top: 40px;
 }
 
+@media (max-width: 600px){
+    .header__title{
+        font-size: 30px;
+        top: 2rem;
+        left: 2rem;
+    }
+}
