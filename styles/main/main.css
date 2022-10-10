@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7rem 0;
+    
+}
+
+.mainimg{
+
+}
+
+.main__title{
+    color: #333333;
+    font-family: 'Space Mono', monospace;
+    font-size: 84px;
+    font-weight: 700;
+    width: 596px;
+    letter-spacing: -0.035em;
+    line-height: 95px;
+}
+
+.main__subtitle{
+    color: #333333;
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    margin: 5rem 0;
+    width: 411px;
+}
+
+.main__btn{
+    color: #fff;
+    background: #333333;
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: 600;
+    margin: auto;
+    padding: 2rem 3rem;
+}
