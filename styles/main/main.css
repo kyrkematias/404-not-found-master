@@ -41,6 +41,11 @@
     font-weight: 600;
     margin: auto;
     padding: 2rem 3rem;
+    transition: 0.5s;
+}
+
+.main__btn:hover{
+    background: #666666;
 }
 
 @media (max-width: 600px){
